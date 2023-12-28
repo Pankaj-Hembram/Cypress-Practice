@@ -9,6 +9,9 @@
   "author": "Pankaj",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^13.6.1"
+    "@4tw/cypress-drag-drop": "^2.2.5",
+    "cypress": "^13.6.1",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-iframe": "^1.0.1"
   }
 }
